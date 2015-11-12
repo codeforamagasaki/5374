@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-金属製小型ごみ,,,,#733b96
-紙類衣類,,,,#77ae1f
-燃やすごみ,,,,#ea3b13
-びん缶ペットボトル,,,,#2dc7aa
+金属製小型ごみ,,,kogata02.svg,#733b96
+紙類衣類,,,kamirui.svg,#77ae1f
+燃やすごみ,,,moyasu02.svg,#ea3b13
+びん缶ペットボトル,,,bin03.svg,#2dc7aa
