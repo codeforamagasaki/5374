@@ -133,3 +133,10 @@ a:hover {
 	 color: #FF0000;
 	 text-decoration: underline;
 }
+
+/**
+ * C4AMAの説明用
+ */
+.caption > h5 + p {
+	margin: auto 1em;
+}
