@@ -137,6 +137,6 @@ a:hover {
 /**
  * C4AMAの説明用
  */
-.caption > h5 + p {
+#caption > h5 + p {
 	margin: auto 1em;
 }
